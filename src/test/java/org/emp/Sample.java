@@ -17,6 +17,13 @@ public class Sample {
 		System.out.println("Test4");
 		System.out.println("Test5");
 	}
+	@Test
+	public void test4() {
+		System.out.println("Test2");
+		System.out.println("Test3");
+		System.out.println("Test4");
+		System.out.println("Test5");
+	}
 	
 	
 
